@@ -2,12 +2,15 @@
 
 High-contrast dark theme for **Omarchy Linux**, inspired by the retro evangelion style and optimized for the **Hyprland** compositor.
 
----
-
 ## ✨ Preview
 ![Preview](preview.png)
 
 ![Preview2](preview2.png)
+
+## Installation
+```bash
+omarchy-theme-install https://github.com/DimaZbr/omarchy-ibm-theme.git
+```
 
 ## 🖥️ Optional: ThinkPad ASCII Logo (Fastfetch)
 
