@@ -57,3 +57,5 @@ Save this to:
   ██   ██ ██ ██ ██ ██ ██ ██ ██    ██▟██ ██▟██
   ▀▀   ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀    ▝▀▘▀▀ ▝▀▘▀
 ```
+
+Buy me a [coffee](https://buymeacoffee.com/sirdrinkalot) :)
